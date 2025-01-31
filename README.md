@@ -1,10 +1,11 @@
 <div align="center">
 
-# Let's start with game-making!
+### My very first game project is below. Enjoy! 😎
+* * *
+              
+- [X]  Wiggle Warm 🐍 using python! <br>
 
-
-## My very first game project 😎
-① Wiggle Warm 🐍 using python3!
+- [ ] Brick Breaker 🧱 using JS!
 
 </div>
 
